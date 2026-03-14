@@ -11,3 +11,6 @@ Testing is better than running the script manually because it checks multiple sc
 
 ## Most Important Test
 The most important test would be the invalid input test. It makes sure the program doesn’t accept trash data which is the most important thing for keeping the program safe and working the right way.
+
+
+![Proof of Error Code](image.png)
